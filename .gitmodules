@@ -1,0 +1,3 @@
+[submodule "notebooks/tensorflow/ProbabilisticDeepLearningTensorFlow"]
+	path = notebooks/tensorflow/ProbabilisticDeepLearningTensorFlow
+	url = https://github.com/zacharyaanglin/ProbabilisticDeepLearningTensorFlow
