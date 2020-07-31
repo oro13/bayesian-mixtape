@@ -1,2 +1,5 @@
 # bayesian-mixtape
-Compiling notes and resources on a Bayesian first approach of Probability and Statistical Inference, ranging from basic concepts, to neural networks, to philosophical grounding of plausible reasoning
+![Uncertainty Fountain](bayesian-roadmap/media/uncertainty-fountain.jpg)
+
+*Uncertainty Fountain*, Alex 'Florstein' Fedorov, 2012, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+
