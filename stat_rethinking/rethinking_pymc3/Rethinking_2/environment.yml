@@ -1,0 +1,13 @@
+name: stat-rethink2-pymc3
+channels:
+- defaults
+dependencies:
+  - jupyter
+  - mkl-service
+  - pip
+  - pip:
+     - watermark
+     - "git+git://github.com/arviz-devs/arviz.git@master"
+     - "git+git://github.com/pymc-devs/pymc3.git@master"
+     - causalgraphicalmodels
+     - daft

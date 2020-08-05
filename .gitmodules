@@ -1,3 +1,12 @@
 [submodule "notebooks/tensorflow/ProbabilisticDeepLearningTensorFlow"]
 	path = notebooks/tensorflow/ProbabilisticDeepLearningTensorFlow
 	url = https://github.com/zacharyaanglin/ProbabilisticDeepLearningTensorFlow
+[submodule "notebooks/statistical-rethinking"]
+	path = notebooks/statistical-rethinking
+	url = https://github.com/Booleans/statistical-rethinking
+[submodule "rethinking"]
+	path = rethinking
+	url = git@github.com:rmcelreath/rethinking.git
+[submodule "resources"]
+	path = resources
+	url = git@github.com:pymc-devs/resources.git
